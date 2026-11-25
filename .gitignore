@@ -1,0 +1,15 @@
+# data and large artefacts
+*.csv
+*.csv.gz
+*.npz
+data/raw/
+data/processed/
+final_run/
+models/
+# python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+# secrets
+.env
